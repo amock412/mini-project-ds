@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the Mini Project Data Science Task
 
-You can use the [editor on GitHub](https://github.com/amock412/mini-project-ds/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+As part of the <a href="https://www.hackdiversity.com/">Hack.Diversity Fellowship</a> the Mini Project involves implementing a small local coffee shop has a community library app where anyone can borrow books. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As part of the data science track, one's task is to examine the book data of available books in the community library as well as trends in book borrowing. To evaluate the the books as wells as borrowing trends we were given two datasets, one containing all the books 
 
 ### Markdown
 
